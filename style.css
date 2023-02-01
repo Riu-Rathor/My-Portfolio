@@ -470,7 +470,7 @@ a {
 }
 
 #project3 {
-  /* background-image: url(CodehelpFigmaProject.mp4); */
+  background: "CodehelpFigmaProjectCompressed.mp4";
 }
 
 video {
@@ -481,7 +481,7 @@ video {
 
 #project4 {
   margin-left: 120px;
-  /* background-image: url(projects/Project4.png); */
+  background: "MyGallery.mp4";
 }
 
 /* Skills section */
